@@ -1,46 +1,45 @@
-# 🔗 My Linktree
+# 🔗 Linktree Template
 
-Projeto inspirado no Linktree, desenvolvido para centralizar meus principais links profissionais em uma única página.
+Template simples para criar uma página de links pessoais, inspirado no Linktree.
 
-## 🌐 Acesse a página
+## ✨ Como usar
 
-👉 [my-linktree no GitHub Pages](https://pablosscosta.github.io/my-linktree/)
+1. Clone o repositório:
+```bash
+git clone https://github.com/pablosscosta/my-linktree-template.git
+```
+
+2. Substitua os placeholders no `index.html`:
+   - Nome (`Seu Nome Aqui`)
+   - Links (GitHub, LinkedIn, Portfolio)
+   - Foto de perfil (`img/perfil.png`)
+
+3. Abra o arquivo `index.html` no navegador ou publique via GitHub Pages.
 
 ## 🚀 Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
-- JavaScript  
+- Font Awesome
 
 ## 📦 Estrutura
 
 ```
-my-linktree/
+my-linktree-template/
 ├── index.html
-├── style.css
-└── script.js
+├── css/
+│   └── style.css
+├── img/
+│   └── perfil.png
+└── README.md
 ```
-
-## 🛠️ Como rodar localmente
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/pablosscosta/my-linktree.git
-```
-
-2. Acesse a pasta:
-```bash
-cd my-linktree
-```
-
-3. Abra o arquivo `index.html` no navegador.
 
 ## 📌 Observações
 
-- Projeto funcional e publicado via GitHub Pages.  
-- Pode ser refatorado futuramente para incluir responsividade, animações ou integração com APIs sociais.
+- Este projeto é um template genérico e não contém dados pessoais.
+- Pode ser personalizado com novas cores, fontes, animações ou ícones.
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/pablosilva013/)  
+Para dúvidas ou sugestões, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/pablosilva013/)  
 📧 pablosousa013@gmail.com
